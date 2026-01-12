@@ -1,0 +1,5 @@
+{
+  "name": "Copy of RePhrase AI",
+  "description": "A powerful AI writing assistant similar to QuillBot. Features paraphrasing with multiple modes (Standard, Formal, Creative, etc.) and an intelligent summarizer using Google Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
